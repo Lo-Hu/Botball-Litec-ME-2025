@@ -2,11 +2,11 @@
 # About us
 ## Our Team
 -Paul Neulinger
--Lukas Bud
--Raffaela Rinnerberger
+*Lukas Bud
++Raffaela Rinnerberger
 -Helena Schobesberger
--Leon Lang
--Leon Schrattenholzer
+*Leon Lang
++Leon Schrattenholzer
 -Lorenz Hutter
     
 ## Our school  
