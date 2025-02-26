@@ -10,5 +10,5 @@
     -Lorenz Hutter
     
  Our school
-    [HTL Paul-Hahn](https://www.litec.ac.at/fachrichtungen/mechatronik/htl-tagesschule/)
+    [HTL Paul-Hahn](https://www.litec.ac.at/fachrichtungen/mechatronik/htl-tagesschule/)  
     **Address:** Paul-Hahn-Straße 4, 4020 Linz, Upper Austria, Austria
