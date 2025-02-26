@@ -1,5 +1,5 @@
 # Botball-Litec-ME-2025
-# About us
+## About us
 ### Our Team
 - Paul Neulinger
 * Lukas Bud
