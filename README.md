@@ -7,7 +7,7 @@
 - Helena Schobesberger
 * Leon Lang
 + Leon Schrattenholzer
-- Lorenz Hutter
+- [Lorenz Hutter](https://github.com/Lo-Hu)
     
 ## Our school  
     [HTL Paul-Hahn](https://www.litec.ac.at/fachrichtungen/mechatronik/htl-tagesschule/)  
