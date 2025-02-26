@@ -1,6 +1,6 @@
 # Botball-Litec-ME-2025
 # About us
-## Our Team
+## Our Team  
     -Paul Neulinger
     -Lukas Bud
     -Raffaela Rinnerberger
