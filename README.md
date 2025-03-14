@@ -15,7 +15,5 @@
 Paul-Hahn-Straße 4, 4020 Linz, Upper Austria, Austria
 ## Code organisation
   Language used: **C**
-  You can find our game-code for our robot at -; ;-
-  Game-code for our macanum wheels robot can you find at -; ;-
-  Here can you find the code with all main variables: 
+  You can find our game-code for our robots at source.
   
